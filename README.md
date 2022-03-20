@@ -1,2 +1,2 @@
-# z-go
+# zgo
 Functional programming in Go
